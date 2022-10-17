@@ -1,5 +1,7 @@
 # SWu-IKEv2
-# IKEv2/IPSec SWu Client Dialer
+# Fork of IKEv2/IPSec SWu Client Dialer
+
+## This is a fork from [the original code by fasferraz](https://github.com/fasferraz/SWu-IKEv2)
 
 This is a SWu client emulator done in python3 that establishes an IKEv2/IPSec tunnel with an ePDG.
 This application implements not only the control plane of SWu (IKEv2) but also the user plane (IPSec).
